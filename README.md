@@ -14,7 +14,7 @@ To run the app on your local machine, you need Python 3+, installed on your comp
 
 1. Firstly you need to clone or download my project from github repo
 	```shell
-    git clone https://github.com/rabiulrafi/weather24.git
+    git clone https://github.com/rajancolab/weather24.git
     ```
 2. Then enter the corresponding directory
 
